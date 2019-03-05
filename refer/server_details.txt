@@ -1,0 +1,18 @@
+
+DBNAME : mbtmin_db
+
+
+DBUSERNAME : mbtmi_user
+
+DBPWD : 6~u59Omv
+
+--------------------------------
+
+Cpanel Details 
+
+HostName : 103.120.176.15
+
+UserName : mbtmin
+Password : 6MwH95gm5s
+
+
